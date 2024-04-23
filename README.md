@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI in healthcare
 - Connect with me: 
 <div id="badges">
-  <a href="www.linkedin.com/in/yakuzuri">
+  <a href="https://www.linkedin.com/in/yakuzuri">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/yarik_bukov">
